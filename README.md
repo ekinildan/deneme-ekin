@@ -1,0 +1,2 @@
+# deneme-ekin
+deneme yapıldı
